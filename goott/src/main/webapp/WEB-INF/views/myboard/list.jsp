@@ -146,6 +146,7 @@ function checkModal(result){
 //따라서 등록 후 리스트가 표시되면 뒤로가기 버튼을 못하게 해야함 
 $(document).ready(function(){
 	  
+	
 	checkModal(result);
 	window.addEventListener('popstate',function(event){
 		history.pushState(null,null,location.href);
