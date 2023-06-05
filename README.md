@@ -1,6 +1,6 @@
 # 커넥션풀, JDBC드라이버, 마이바티스 구성
 
-### 용어정리
+### 용어정리dsaf
 
 * JDBC(Java DataBase Connectivity)?<br>
 데이터베이스와 연동할 수 있게 도와주는 드라이버 <br>
